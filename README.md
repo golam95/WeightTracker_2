@@ -4,4 +4,4 @@ WeightTracker_2 application develop the concept WeightTracker_1 but using differ
 </br>
 </br>
 </br>
-<img src="weight_tracker/img">
+<img src="weight_tracker/img/tracker.PNG">
